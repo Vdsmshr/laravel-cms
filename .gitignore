@@ -1,3 +1,4 @@
+@ -1,53 +1,20 @@
 # Laravel
 /vendor
 /.phpunit.cache
@@ -50,4 +51,5 @@ yarn-error.log
 # IDE
 /.fleet
 /.idea
+/.vscode
 /.vscode
